@@ -13,7 +13,7 @@ Aplikasi mobile yang menyediakan informasi lengkap tentang kabupaten dan kota di
 
 | Halaman Utama               | Detail Kabupaten/Kota    | Form Tambah Data       | Form Edit                 | Halaman Pencarian            |
 |-----------------------------|--------------------------|------------------------|---------------------------|------------------------------|
-| ![Home](images/home.jpg)    | ![info](images/info.jpg) | ![add](images/add.jpg) | ![edit](images/edit.jpg)  |![search](search/search.jpg)  |
+| ![Home](images/home.jpg)    | ![info](images/info.jpg) | ![add](images/add.jpg) | ![edit](images/edit.jpg)  |![search](images/search.jpg)  |
 
 ## Teknologi yang Digunakan
 
