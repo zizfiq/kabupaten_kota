@@ -15,20 +15,6 @@ Aplikasi mobile yang menyediakan informasi lengkap tentang kabupaten dan kota di
 |-----------------------------|--------------------------|------------------------|---------------------------|------------------------------|
 | ![Home](images/home.jpg)    | ![info](images/info.jpg) | ![add](images/add.jpg) | ![edit](images/edit.jpg)  |![search](images/search.jpg)  |
 
-## Teknologi yang Digunakan
-
-- Flutter SDK
-- Dart programming language
-- SQLite database
-- Provider state management
-- Flutter Material Design
-
-## Cara Instalasi
-
-1. Clone repository ini:
-```bash
-git clone https://github.com/zizfiq/kabupaten_kota.git
-```
 ## 🛠️ Teknologi yang Digunakan
 - 🎯 Flutter SDK
 - 💻 Dart programming language
