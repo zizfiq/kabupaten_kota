@@ -1,16 +1,69 @@
-# kabupaten_kota
+# 📱 Aplikasi Informasi Kabupaten/Kota Riau
 
-A new Flutter project.
+Aplikasi mobile yang menyediakan informasi lengkap tentang kabupaten dan kota di Provinsi Riau. Dibangun menggunakan Flutter framework dan SQLite sebagai basis data lokal.
 
-## Getting Started
+## ✨ Fitur Aplikasi
+- 📋 Menampilkan daftar kabupaten/kota di Provinsi Riau
+- 💾 Menyimpan dan mengelola informasi detail setiap kabupaten/kota
+- 🔄 Mendukung operasi CRUD (Create, Read, Update, Delete) untuk data kabupaten/kota
+- 🗂️ Penyimpanan data secara lokal menggunakan SQLite
+- 📱 Antarmuka pengguna yang responsif dan mudah digunakan
 
-This project is a starting point for a Flutter application.
+## 📸 Screenshots Aplikasi
 
-A few resources to get you started if this is your first Flutter project:
+| Halaman Utama               | Detail Kabupaten/Kota    | Form Tambah Data       | Form Edit                 | Halaman Pencar              |
+|-----------------------------|--------------------------|------------------------|---------------------------|-----------------------------|
+| ![Home](images/home.jpg)    | ![info](images/info.jpg) | ![add](images/add.jpg) | ![edit](images/edit.jpg)  |![search](search/about.jpg)  |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Teknologi yang Digunakan
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter SDK
+- Dart programming language
+- SQLite database
+- Provider state management
+- Flutter Material Design
+
+## Cara Instalasi
+
+1. Clone repository ini:
+```bash
+git clone https://github.com/zizfiq/kabupaten_kota.git
+```
+## 🛠️ Teknologi yang Digunakan
+- 🎯 Flutter SDK
+- 💻 Dart programming language
+- 🗄️ SQLite database
+- 📊 Provider state management
+- 🎨 Flutter Material Design
+
+## 📥 Cara Instalasi
+1. Clone repository ini:
+```bash
+git clone https://github.com/zizfiq/kabupaten_kota.git
+```
+
+2. Masuk ke direktori proyek:
+```bash
+cd kabupaten_kota
+```
+
+3. Install dependencies:
+```bash
+flutter pub get
+```
+
+4. Jalankan aplikasi:
+```bash
+flutter run
+```
+
+## 📖 Cara Penggunaan
+1. 📱 Buka aplikasi
+2. 📋 Pada halaman utama, akan ditampilkan daftar kabupaten/kota di Riau
+3. ➕ Tekan tombol + untuk menambahkan data kabupaten/kota baru
+4. 👆 Tekan salah satu item untuk melihat detail informasi
+5. ✏️ Gunakan tombol edit untuk mengubah informasi
+6. 🗑️ Gunakan tombol hapus untuk menghapus data
+
+## 📄 Lisensi
+Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE.md](LICENSE.md) untuk detail.
