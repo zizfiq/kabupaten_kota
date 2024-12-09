@@ -52,4 +52,4 @@ flutter run
 6. 🗑️ Gunakan tombol hapus untuk menghapus data
 
 ## 📄 Lisensi
-Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE.md](LICENSE.md) untuk detail.
+Untuk detail lebih lanjut, silakan baca [LICENSE](LICENSE).
