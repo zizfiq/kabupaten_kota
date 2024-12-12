@@ -11,7 +11,7 @@ Aplikasi mobile yang menyediakan informasi lengkap tentang kabupaten dan kota di
 
 ## 📸 Screenshots Aplikasi
 
-| Halaman Utama               | Detail Kabupaten/Kota    | Form Tambah Data       | Form Edit                 | Halaman Pencarian            |
+| Halaman Utama               | Detail Kota/Kabupaten    | Form Tambah Data       | Form Edit                 | Halaman Pencarian            |
 |-----------------------------|--------------------------|------------------------|---------------------------|------------------------------|
 | ![Home](images/home.jpg)    | ![info](images/info.jpg) | ![add](images/add.jpg) | ![edit](images/edit.jpg)  |![search](images/search.jpg)  |
 
